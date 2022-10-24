@@ -38,7 +38,7 @@
 
 ## 📈 My Github status
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mouad-El-Asri&show_icons=true&include_all_commits=true&hide_border=true" alt="MouadElAsri's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-El-Asri&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mouad-El-Asri&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="MouadElAsri's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-El-Asri&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
