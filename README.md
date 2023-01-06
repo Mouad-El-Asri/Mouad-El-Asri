@@ -49,6 +49,6 @@
 
 
 ## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
+Many hours of hard work have gone into these projects. Your support will be very appreciated!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/elasrimouad)
