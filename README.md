@@ -59,9 +59,3 @@
 ## 👨‍💻 My 42 stats
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/moel-asr" alt="moel-asr's 42 stats" /></a>
-
-
-## Supporting
-Many hours of hard work have gone into these projects. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/elasrimouad)
